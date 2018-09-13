@@ -1,0 +1,4 @@
+这个eureka工程，作为spring-cloud的注册中心。
+使用的版本信息：boot 是 2.0.3.RELEASE
+               cloud是Finchley.RELEASE
+  详见pom.xml文件。
